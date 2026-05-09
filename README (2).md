@@ -54,6 +54,7 @@ Caring is Sharing
 - Added KZT pricing and total cost calculation
 - Wrote full project documentation in README.md
 - Maintained the Google Colab notebook
+- Presentation slides: 'How it works?' part
   
 | Rakhman Aidana|
 | Talap Akbota |
