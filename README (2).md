@@ -41,7 +41,7 @@ Caring is Sharing
 | Name | Module |
 | Demegen Amina  |
 
-| Maxutova Gulden |
+
 **Maxutova Gulden — main.py, recommender.py, README.md, Google colab**
 - Built the main bot entry point and all command handlers
 - Implemented /start, /myroutine, /ingredient, /sos commands
