@@ -38,7 +38,6 @@ A Telegram bot that asks 11 questions about your skin and generates a personaliz
 
 ## Team
 Caring is Sharing
-| Name | Module |
 | Demegen Amina  |
 
 
@@ -57,4 +56,16 @@ Caring is Sharing
 - Presentation slides: 'How it works?' part
   
 | Rakhman Aidana|
+**Rakhman Aidana — survey.py, database.py**
+- Designed all 11 survey questions and answer options
+- Built inline keyboard buttons for each question
+- Implemented multi-select functionality for vitamins question
+- Implemented JSON-based data storage system
+- Built save, retrieve and delete functions for user routines
+- Handled file reading and writing with error protection
+- Added climate and sun exposure questions for SPF recommendations
+- Designed budget tier options (Budget, Mid-range, Premium)
+- Implemented allergy filtering to exclude unsafe ingredients
+- Ensured data persistence across bot sessions using JSON file
+  
 | Talap Akbota |
