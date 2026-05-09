@@ -40,6 +40,7 @@ A Telegram bot that asks 11 questions about your skin and generates a personaliz
 Caring is Sharing
 | Name | Module |
 | Demegen Amina  |
+
 | Maxutova Gulden |
 **Maxutova Gulden — main.py, recommender.py, README.md, Google colab**
 - Built the main bot entry point and all command handlers
@@ -53,5 +54,6 @@ Caring is Sharing
 - Added KZT pricing and total cost calculation
 - Wrote full project documentation in README.md
 - Maintained the Google Colab notebook
+  
 | Rakhman Aidana|
 | Talap Akbota |
