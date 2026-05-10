@@ -38,7 +38,13 @@ A Telegram bot that asks 11 questions about your skin and generates a personaliz
 
 ## Team
 Caring is Sharing
-| Demegen Amina  |
+
+**Demegen Amina** 
+- Edited ...
+- Responsible for presentation slides: "Existing Problems" and "Target Audience"
+- ...
+- ...
+- ...
 
 
 **Maxutova Gulden — main.py, recommender.py, README.md, Google colab**
@@ -55,7 +61,6 @@ Caring is Sharing
 - Maintained the Google Colab notebook
 - Presentation slides: 'How it works?' part
   
-| Rakhman Aidana|
 **Rakhman Aidana — survey.py, database.py**
 - Designed all 11 survey questions and answer options
 - Built inline keyboard buttons for each question
