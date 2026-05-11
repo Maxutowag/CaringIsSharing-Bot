@@ -47,7 +47,7 @@ Caring is Sharing
 - Verified accuracy of skincare ingredient descriptions and routine recommendations
 - Assisted in tracing survey flow errors and reported bugs
 - Participated in debugging sessions and helped identify logical errors in bot responses
-- Performed end-to-end user flow testing for the survey and routine builder
+- Helped test edge cases in the multi-select vitamin question and reported unexpected behavior
 - Applied minor fixes to improve bot response formatting strings
 
 **Maxutova Gulden — main.py, recommender.py, README.md, Google colab**
