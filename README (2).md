@@ -39,14 +39,16 @@ A Telegram bot that asks 11 questions about your skin and generates a personaliz
 ## Team
 Caring is Sharing
 
-**Demegen Amina** 
-- Edited the video presentation
+**Demegen Amina - research, content, debugging, error analysis**
 - Responsible for presentation slides: "Existing Problems", "Telegram Bot" and "Target Audience"
 - Provided and fact-checked background information on skincare market trends that was used
 - Researched target demographics and skincare concerns for users
 - Curated product and ingredient information used in bot's encyclopedia
 - Verified accuracy of skincare ingredient descriptions and routine recommendations
-
+- Assisted in tracing survey flow errors and reported bugs
+- Participated in debugging sessions and helped identify logical errors in bot responses
+- Performed end-to-end user flow testing for the survey and routine builder
+- Applied minor fixes to improve bot response formatting strings
 
 **Maxutova Gulden — main.py, recommender.py, README.md, Google colab**
 - Built the main bot entry point and all command handlers
