@@ -41,10 +41,11 @@ Caring is Sharing
 
 **Demegen Amina** 
 - Edited the video presentation
-- Responsible for presentation slides: "Existing Problems" and "Target Audience"
-- Provided and fact-checked background information
-- ...
-- ...
+- Responsible for presentation slides: "Existing Problems", "Telegram Bot" and "Target Audience"
+- Provided and fact-checked background information on skincare market trends that was used
+- Researched target demographics and skincare concerns for users
+- Curated product and ingredient information used in bot's encyclopedia
+- Verified accuracy of skincare ingredient descriptions and routine recommendations
 
 
 **Maxutova Gulden — main.py, recommender.py, README.md, Google colab**
