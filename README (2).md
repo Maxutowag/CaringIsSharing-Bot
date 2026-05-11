@@ -74,4 +74,12 @@ Caring is Sharing
 - Implemented allergy filtering to exclude unsafe ingredients
 - Ensured data persistence across bot sessions using JSON file
   
-| Talap Akbota |
+**Talap Akbota – market rec,competitor analysis,code review**
+•  Performed detailed market and competitor analysis in the skincare tech segment
+•  Studied existing solutions and identified their strengths and weaknesses
+•  Helped define unique value proposition of “Caring is Sharing” based on research
+•  Conducted thorough code review of the whole project
+•  Tested all major functionalities (/start, /myroutine, /ingredient, /sos, survey, recommendation system)
+•  Suggested improvements in user flow, error handling, and overall bot stability
+•  Assisted in refining the code and ensuring smooth performance
+•  Supported the team with documentation and presentation materials
